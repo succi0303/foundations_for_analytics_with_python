@@ -1,4 +1,4 @@
-#!/user/bin/env python3
+#!/usr/bin/env python3
 import sys
 
 input_file = sys.argv[1]
